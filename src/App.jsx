@@ -69,7 +69,7 @@ export default function App({ count = 80,depth= 80 }) {
           > <div className="back">
               <h1 className="heading"> Apple</h1>
               <p className="para__1">An apple is an edible fruit produced <br/>by an apple tree (Malus domestica).<br/>Apple trees are cultivated worldwide and <br/> are the most widely grown species in the genus Malus.</p>
-              <h4 className="para__2">Made by {">"} Soumyadip Moni <br/> <a href="https://soumyadipmoni.vercel.app/">My Portfolio Website</a></h4>
+              <h4 className="para__2">Made by  {">"}  Soumyadip Moni <br/> <a href="https://soumyadipmoni.vercel.app/">My Portfolio Website</a></h4>
             </div>
           </Html>
           <EffectComposer>
